@@ -102,14 +102,11 @@ python3 speech_analyzer.py
 Open your browser and navigate to http://localhost:7860 (or the provided web view URL on IBM Cloud / Skills Network IDE) to upload an .mp3 file and view the generated key points.
 ## 📸 The Visual & Audio Proof
 
-### 🔊 Sample Watson TTS Voice Output
-Listen to how the Watson Text-to-Speech engine synthesizes OpenAI's response:
+### 🔊 Sample Voice Response
+Listen to how the AI synthesizes the generated response into natural human speech:
 
 <audio controls src="Testing speech to text.mp3">
-  Your browser does not support the audio element.
 </audio>
-
-*Or [click here to download/listen to the sample](Testing speech to text.mp3).*
 
 ### UI Demonstration
 1. Speech-to-Text Interface (speech2text_app.py)
