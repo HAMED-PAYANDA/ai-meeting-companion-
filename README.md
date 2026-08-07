@@ -83,23 +83,32 @@ ai-meeting-companion/
 🚀 Local Setup & Execution
 1. System Dependencies
 Ensure ffmpeg is installed on your Linux system to process audio formats:
+```bash
 sudo apt update && sudo apt install ffmpeg -y
+```
 
 2. Environment Setup
 Create and activate a Python virtual environment:
+```bash
 pip3 install virtualenv
 virtualenv my_env
 source my_env/bin/activate
+```
 
 3. Install Python Dependencies
 Install the required packages:
+```bash
 pip install --force-reinstall "setuptools<70" transformers==4.36.0 torch==2.1.1 gradio==5.23.2 langchain==0.0.343 ibm_watson_machine_learning==1.0.335 huggingface-hub==0.28.1
+```
 
 4. Run the Main Application
 Launch the complete Speech Analyzer app:
+```bash
 python3 speech_analyzer.py
+```
 
 Open your browser and navigate to http://localhost:7860 (or the provided web view URL on IBM Cloud / Skills Network IDE) to upload an .mp3 file and view the generated key points.
+
 ## 📸 The Visual & Audio Proof
 
 ### 🔊 Sample Voice Response
