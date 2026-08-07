@@ -105,7 +105,7 @@ Open your browser and navigate to http://localhost:7860 (or the provided web vie
 ### 🔊 Sample Voice Response
 Listen to how the AI synthesizes the generated response into natural human speech:
 
-<audio controls src="Testing speech to text.mp3">
+<audio controls src="https://github.com/HAMED-PAYANDA/ai-meeting-companion-/blob/main/Testing%20speech%20to%20text.mp3">
 </audio>
 
 ### UI Demonstration
