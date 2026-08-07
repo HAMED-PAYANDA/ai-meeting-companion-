@@ -80,7 +80,7 @@ ai-meeting-companion/
 └── README.md                      # Project documentation
 ```
 
-🚀 Local Setup & Execution
+## 🚀 Local Setup & Execution
 1. System Dependencies
 Ensure ffmpeg is installed on your Linux system to process audio formats:
 ```bash
@@ -115,6 +115,7 @@ Open your browser and navigate to http://localhost:7860 (or the provided web vie
 Listen to how the AI synthesizes the generated response into natural human speech:
 
 👉 **[Click here to listen to the Audio Demo](https://github.com/HAMED-PAYANDA/ai-meeting-companion-/blob/main/Testing%20speech%20to%20text.mp3)**
+(Click on Raw and turn on your speakers!)
 
 ### UI Demonstration
 1. Speech-to-Text Interface (speech2text_app.py)
