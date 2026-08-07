@@ -102,9 +102,6 @@ python3 speech_analyzer.py
 Open your browser and navigate to http://localhost:7860 (or the provided web view URL on IBM Cloud / Skills Network IDE) to upload an .mp3 file and view the generated key points.
 ## 📸 The Visual & Audio Proof
 
-### UI Demonstration
-![Voice Assistant Demo](demo5.png)
-
 ### 🔊 Sample Watson TTS Voice Output
 Listen to how the Watson Text-to-Speech engine synthesizes OpenAI's response:
 
@@ -114,7 +111,7 @@ Listen to how the Watson Text-to-Speech engine synthesizes OpenAI's response:
 
 *Or [click here to download/listen to the sample](sample_response.wav).*
 
-
+### UI Demonstration
 1. Speech-to-Text Interface (speech2text_app.py)
 Transcribes uploaded audio files directly into raw text using OpenAI Whisper.
 ![Voice Response Demo](demo4.png)
