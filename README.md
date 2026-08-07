@@ -130,7 +130,7 @@ Transcribes audio and extracts structured key points using IBM WatsonX LLM and L
 👤 Author
 Hamed Payanda
 •	GitHub: @HAMED-PAYANDA
-Completed as part of the IBM AI Developer Specialization.
+Completed as part of the IBM AI Developer Program.
 
 
 📄 License
