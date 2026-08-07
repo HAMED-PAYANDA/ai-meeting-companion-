@@ -105,11 +105,11 @@ Open your browser and navigate to http://localhost:7860 (or the provided web vie
 ### 🔊 Sample Watson TTS Voice Output
 Listen to how the Watson Text-to-Speech engine synthesizes OpenAI's response:
 
-<audio controls src="sample_response.wav">
+<audio controls src="Testing speech to text.mp3">
   Your browser does not support the audio element.
 </audio>
 
-*Or [click here to download/listen to the sample](sample_response.wav).*
+*Or [click here to download/listen to the sample](Testing speech to text.mp3).*
 
 ### UI Demonstration
 1. Speech-to-Text Interface (speech2text_app.py)
