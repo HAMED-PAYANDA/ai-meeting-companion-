@@ -105,8 +105,7 @@ Open your browser and navigate to http://localhost:7860 (or the provided web vie
 ### 🔊 Sample Voice Response
 Listen to how the AI synthesizes the generated response into natural human speech:
 
-<audio controls src="Testing%20speech%20to%20text.mp3">
-</audio>
+👉 **[Click here to listen to the Audio Demo](Testing%20speech%20to%20text.mp3?raw=true)**
 
 ### UI Demonstration
 1. Speech-to-Text Interface (speech2text_app.py)
