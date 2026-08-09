@@ -7,7 +7,7 @@
 [![Gradio](https://img.shields.io/badge/Gradio-5.23.2-FF7C00.svg?logo=gradio&logoColor=white)](https://gradio.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![IBM Certification](https://img.shields.io/badge/IBM-AI%20Developer%20Program-blue?style=flat&logo=ibm)](https://cognitiveclass.ai/)
-
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
 
 An end-to-end Speech-to-Text (STT) and Meeting Intelligence application. This tool captures audio recordings of business meetings or academic lectures, transcribes them using OpenAI's Whisper, processes the transcript using IBM WatsonX AI (Llama foundation model) via LangChain, and generates structured meeting summaries and key takeaways inside an interactive Gradio web interface.
 
