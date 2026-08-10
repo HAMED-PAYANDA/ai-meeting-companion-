@@ -6,6 +6,11 @@
 [![IBM WatsonX](https://img.shields.io/badge/IBM%20WatsonX-Machine%20Learning-052FAD.svg?logo=ibm&logoColor=white)](https://www.ibm.com/watsonx)
 [![Gradio](https://img.shields.io/badge/Gradio-5.23.2-FF7C00.svg?logo=gradio&logoColor=white)](https://gradio.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![OpenAI Whisper](https://img.shields.io/badge/OpenAI_Whisper-Transformers-412991?style=flat-square&logo=openai&logoColor=white)
+![IBM Watsonx](https://img.shields.io/badge/IBM_Watsonx-Machine_Learning-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![Meta Llama](https://img.shields.io/badge/Meta_Llama-AI_Model-0468FF?style=flat-square&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-Media_Processing-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 [![IBM Certification](https://img.shields.io/badge/IBM-AI%20Developer%20Program-blue?style=flat&logo=ibm)](https://cognitiveclass.ai/)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
 
