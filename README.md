@@ -84,6 +84,7 @@ ai-meeting-companion/
 ├── speech_analyzer.py             # Main Application: Full Whisper + WatsonX + Gradio pipeline
 └── README.md                      # Project documentation
 ```
+---
 
 ## 🚀 Local Setup & Execution
 1. System Dependencies
@@ -114,6 +115,8 @@ python3 speech_analyzer.py
 
 Open your browser and navigate to http://localhost:7860 (or the provided web view URL on IBM Cloud / Skills Network IDE) to upload an .mp3 file and view the generated key points.
 
+---
+
 ## 📸 The Visual & Audio Proof
 
 ### 🔊 Sample Voice Response
@@ -132,11 +135,19 @@ Transcribes uploaded audio files directly into raw text using OpenAI Whisper.
 Transcribes audio and extracts structured key points using IBM WatsonX LLM and LangChain.
 ![Voice Response Demo](demo5.png)
 
-👤 Author
-Hamed Payanda
-•	GitHub: @HAMED-PAYANDA
-Completed as part of the IBM AI Developer Program.
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
+---
+
+## 👤 Author
+
+**Hamed Payanda**
+* **GitHub:** [@HAMED-PAYANDA](https://github.com/HAMED-PAYANDA)
+* Completed as part of the **IBM AI Developer Program**.
 
 
-📄 License
-This project is licensed under the MIT License.
+
